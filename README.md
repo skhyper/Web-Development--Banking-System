@@ -15,7 +15,8 @@ between multiple users.
 - Host the website at 000webhost, github.io, heroku app or any
 other free hosting provider. Check in code in gitlab.
 
-About
+About :---
+
 Computerizing the transactions and entries is the main 
 objective of the project. The application using PHP and MySQL 
 handles some of the basic operations like 'view all users', 
